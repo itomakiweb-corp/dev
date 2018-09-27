@@ -6,8 +6,8 @@
 |スプリント期間|1週間|
 |ステークホルダー|Hide|
 |スクラムマスター|Hide|
-|プロダクトオーナー|kazuyuki(^_^)/ |
-|スクラム開発者|adachi-swivel（企画寄り）, bac0907（企画寄り）, nobuaki okabe（開発全般）|
+|プロダクトオーナー|kazuyuki(^\_^)/|
+|スクラム開発者|企画全般: kazuyuki(^\_^)/, adachi-swivel, bac0907, 開発全般: nobuaki okabe|
 
 
 ## 情報一覧
