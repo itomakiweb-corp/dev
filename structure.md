@@ -7,7 +7,7 @@
 |ステークホルダー|Hide|
 |スクラムマスター|Hide|
 |プロダクトオーナー|kazuyuki(^\_^)/|
-|スクラム開発者（企画全般）|kazuyuki(^\_^)/, adachi-swivel, bac0907|
+|スクラム開発者（企画全般）|kazuyuki(^\_^)/, adachi-swivel, be-|
 |スクラム開発者（開発全般）|nobuaki okabe|
 
 
