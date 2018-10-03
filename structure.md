@@ -11,6 +11,15 @@
 |スクラム開発者（開発全般）|nobuaki okabe|
 
 
+## 組織構成
+
+|項目|内容|
+|:---|:---|
+|代表取締役社長|Hide|
+|取締役|kazuyuki(^\_^)/, adachi-swivel|
+|専門家|kazuyuki(^\_^)/, be-, nobuaki okabe|
+
+
 ## 情報一覧
 
 - [HOME](https://itomakiweb-corp.github.io/)
