@@ -17,7 +17,7 @@
 |:---|:---|
 |代表取締役社長|Hide|
 |取締役|kazuyuki(^\_^)/, adachi-swivel|
-|専門家|kazuyuki(^\_^)/, be-, nobuaki okabe|
+|専門職|kazuyuki(^\_^)/, be-, nobuaki okabe|
 
 
 ## 情報一覧
