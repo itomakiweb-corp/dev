@@ -3,7 +3,7 @@
 |項目|内容|
 |:---|:---|
 |開発手法|アジャイル・スクラム|
-|スプリント期間|1週間|
+|スプリント期間|1週間（木曜日がスクラムの起点）|
 |ステークホルダー|Hide|
 |スクラムマスター|Hide|
 |プロダクトオーナー|kazuyuki(^\_^)/|
@@ -15,9 +15,10 @@
 
 |項目|内容|
 |:---|:---|
-|代表取締役社長|Hide|
-|取締役|kazuyuki(^\_^)/, adachi-swivel|
-|専門職|kazuyuki(^\_^)/, be-, nobuaki okabe|
+|筆頭株主|Hide|
+|代表取締役社長|kazuyuki(^\_^)/|
+|取締役|adachi-swivel|
+|専門職|kazuyuki(^\_^)/, adachi-swivel, be-, nobuaki okabe|
 
 
 ## 情報一覧
