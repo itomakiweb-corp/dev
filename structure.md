@@ -28,5 +28,4 @@
 - [副業的な創業](https://itomakiweb-corp.github.io/corp/foundation)
 - [事業計画](https://itomakiweb-corp.github.io/corp/)
 - [開発体制](https://itomakiweb-corp.github.io/dev/structure)
-- [契約書類](https://itomakiweb-corp.github.io/corp/contract)
 - [GitHub: itomakiweb-corp](https://github.com/itomakiweb-corp/)
